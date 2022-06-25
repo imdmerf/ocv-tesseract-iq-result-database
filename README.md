@@ -24,4 +24,4 @@ pip install -r requirements.txt
 
 ## Features
 
-*- database analysis followed by histograms*
+*- functionality extension*
